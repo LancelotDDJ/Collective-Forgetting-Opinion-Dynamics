@@ -1,8 +1,0 @@
-numpy
-pandas
-matplotlib
-networkx
-scipy
-jupyter
-ipykernel
-nbformat
